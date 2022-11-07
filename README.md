@@ -1,16 +1,24 @@
-### Hi there 👋
+## Arthur Leonardo Costa
 
-<!--
-**ArthurLeonardo801/ArthurLeonardo801** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Developer System 
 
-Here are some ideas to get you started:
+I'm a C# Full-Stack Developer (.dotNet, AspNet, Node.js, ReactJS, React Native).<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here on my GitHub profile you can see all my projects.  
+Always in search of new knowledge and improvement of existing skills.
+
+<a href="https://www.linkedin.com/in/arthur-leonardo-534368200/"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-Elias%20Gabriel-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-leonardo-534368200/"/></a>
+
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
